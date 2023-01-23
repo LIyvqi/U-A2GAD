@@ -13,11 +13,14 @@ GPU: NVIDIA GeForce RTX 3090
 
 python == 3.6
 
+## Requirements
+``` bash
 dgl == 0.9.1
 
 sklearn == 0.24.2
 
 torch == 1.9.1+cu111
+```
 
 ## Train and Evaluate
 
