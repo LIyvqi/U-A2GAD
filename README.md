@@ -19,3 +19,8 @@ sklearn == 0.24.2
 
 torch == 1.9.1+cu111
 
+## Train and Evaluate
+
+``` bash
+python main.py
+```
