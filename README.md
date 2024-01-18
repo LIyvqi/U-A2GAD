@@ -1,4 +1,4 @@
-# U-A2DAD
+# U-A2GAD
 
 Our work is currently under review. The source codes; more evaluation results, including the parameters study, and more abalation experiments; as well as the implementation details are submitted as supplementary material to the conference site. We will open the source once our paper is accepted.
 
